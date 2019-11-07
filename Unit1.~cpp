@@ -92,13 +92,8 @@ void __fastcall TCalculator::Button20Click(TObject *Sender)
         else {
         Edit1->Text = Edit1->Text+".";
         nuqta=true;}
-
 }
 //---------------------------------------------------------------------------
-
-
-
-
 
 void __fastcall TCalculator::Button13Click(TObject *Sender)
 {
